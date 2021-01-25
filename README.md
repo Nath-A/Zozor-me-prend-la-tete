@@ -2,5 +2,5 @@
 ## Zozor-me-prend-la-tete
 
 ### Objectif de l'exercice
-Rendre le site suivant responsive
-![Site de Zozor sur pc] (references/site-actuel.jpg)
+Rendre le site suivant responsive  
+![Site de Zozor sur pc](references/site-actuel.jpg)
