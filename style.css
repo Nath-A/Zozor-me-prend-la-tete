@@ -39,6 +39,14 @@ body
     margin: auto;
 }
 
+@media all and (max-width : 1024px)
+{
+    #bloc-page
+    {
+        width: auto;
+    }
+}
+
 section h1, footer h1, nav a
 {
     font-family: Dayrom, serif;
@@ -91,6 +99,13 @@ header h2
     font-weight: normal;
 }
 
+@media all and (max-width : 360px)
+{
+    header
+    {
+        flex-direction: column;
+    }
+}
 /* Navigation */
 
 nav ul
@@ -116,6 +131,19 @@ nav a:hover
 {
     color: #760001;
     border-bottom: 3px solid #760001;
+}
+
+@media only screen and (max-width : 1024px)
+{
+    nav
+    {
+        width: auto;
+    }
+
+    nav ul
+    {
+        flex-direction: column;
+    }
 }
 
 /* Bannière */
