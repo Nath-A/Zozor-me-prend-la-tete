@@ -7,5 +7,5 @@
 
 **Plan des grilles**  
 ![Plan des grilles](references/grille-a-deployer.jpg)  
-### Site (WIP)
+### Site
 https://nathalie-anneessens.github.io/Zozor-me-prend-la-tete/

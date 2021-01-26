@@ -369,6 +369,10 @@ footer h1
 
 @media only screen and (max-width : 870px)
 {
+    body
+    {
+        font-size: 1.1rem;
+    }
     footer h1
     {
         text-align: center;
@@ -381,6 +385,11 @@ footer h1
         grid-template-rows: repeat(4, auto);
         justify-content: center;
 
+    }
+
+    footer #mes_photos img
+    {
+        margin-bottom: 2px;
     }
     
     footer #listes_amis
@@ -409,6 +418,11 @@ footer h1
 
 @media only screen and (max-width : 581px)
 {
+    body
+    {
+        font-size: 1.2rem;
+    }
+    
     header
     {
         grid-template-columns: 1fr;
@@ -462,6 +476,11 @@ footer h1
 
 @media only screen and (max-width : 410px)
 {
+    body
+    {
+        font-size: 1.3rem;
+    }
+    
     header nav li
     {
         margin-bottom: 5px;
